@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm `RustPowerCoder`.
 
-![](https://komarev.com/ghpvc/?username=RustPowerCoder&color=green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RustPowerCoder&show_icons=true&theme=radical)
 
  - 📫 You can reach me at
    - petersn96@protonmail.com
